@@ -1,0 +1,4 @@
+.venv/
+__pycache__/
+*.pycgit rm -r --cached .venv
+config.py
